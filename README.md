@@ -6,14 +6,6 @@ A static, multi-page website built to represent the **Apostolic Church of Ethiop
 
 The project integrates Christian values with modern web design, offering both spiritual content and a simple client-side shopping cart experience.
 
----
-
-## 🌍 Live Demo
- 
-my deployed link here (Netlify):
-```
-(https://ace-meklit.netlify.app/)
-
 
 ```
 
@@ -123,3 +115,4 @@ Apostolic Church of Ethiopia Project
 
 This project is for educational and ministry purposes.
 All rights reserved © 2026.
+
